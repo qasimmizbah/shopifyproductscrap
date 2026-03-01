@@ -19,14 +19,9 @@ function fetchUrl($url) {
 */
 
 $collections = [
-    "https://uk.lalique.com/collections/costume-jewellery-rings",
-    "https://uk.lalique.com/collections/costume-jewellery-pendants",
-    "https://uk.lalique.com/collections/costume-jewellery-necklaces",
-    "https://uk.lalique.com/collections/costume-jewellery-bracelets",
-    "https://uk.lalique.com/collections/costume-jewellery-earrings",
-    "https://uk.lalique.com/collections/costume-jewellery-brooches",
-    "https://uk.lalique.com/collections/candleholders-and-votives",
-    "https://uk.lalique.com/collections/cufflinks"
+    "https://abs.com/collections/costume-jewellery-rings",
+    "https://abc.com/collections/costume-jewellery-pendants",
+    
 ];
 
 $allProducts = [];

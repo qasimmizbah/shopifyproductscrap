@@ -13,7 +13,7 @@ function fetchUrl($url) {
 }
 
 // STEP 1: Fetch collection page HTML
-$collectionUrl = "https://uk.lalique.com/collections/gifts-for-him";
+$collectionUrl = "https://abc.com/collections/gifts-for-him";
 $html = fetchUrl($collectionUrl);
 
 $dom = new DOMDocument();
